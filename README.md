@@ -36,6 +36,6 @@ This repository contains Python code for identifying Shapes.
 
  Run the Shape Detection script:
     ```sh
-    python ShapeDetection.py shapes.jpg
+    python findshape.py shapes.jpg
     ```
 
